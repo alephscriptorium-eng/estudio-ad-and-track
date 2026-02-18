@@ -1,6 +1,6 @@
-# Caso RTVE Play: Bloqueo de Contenido Publico y Vigilancia Digital
+# Caso etudio ad and track: Bloqueo de Contenido Publico y Vigilancia Digital
 
-RTVE Play bloquea la reproduccion de video a usuarios con ad blocker. Un analisis forense revela que para ver un solo video, la pagina contacta con **29 dominios** de 12+ empresas, incluyendo un servicio (Conviva) que intercepta todas las comunicaciones de red del navegador.
+Dado un sujeto de estudio, "RTVE Play", se inventaria cómo bloquea la reproduccion de video a usuarios con ad/tracker blockers. Un analisis forense revela que para ver un solo video, la pagina contacta con **29 dominios** de 12+ empresas, incluyendo un servicio (Conviva) que intercepta todas las comunicaciones de red del navegador.
 
 Este repositorio documenta los hallazgos tecnicos y contiene borradores de acciones legales a nivel nacional e internacional.
 
